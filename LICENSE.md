@@ -1,6 +1,8 @@
 MIT License
 
 Copyright (c) 2020 sark
+Copyright (c) 2019 Jeffrey Vella
+Copyright (c) 2013 Daniel "BlueRaja" Pflughoeft
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
